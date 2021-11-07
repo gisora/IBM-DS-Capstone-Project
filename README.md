@@ -1,1 +1,1 @@
-# watson_studio
+# Notebooks from IBM Watson Studio
